@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lindsey-jarema
+- 👋 Hi, I’m linds
 - 👀 I’m interested in ... data analytics
 - 🌱 I’m currently learning ... SQL, R, Python
 - 💞️ I’m looking to collaborate on ...hackathons and other projects that can test and build skills in programming as related to data analytics 
